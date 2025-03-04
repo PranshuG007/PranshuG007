@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning REST, gRPC, and ML Models
 - 💞️ I’m looking to collaborate on some good project to give me hand on practice of AI,ML
 - 📫 To reach me just drop a mail to pranshugoyal2001@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once cycled across three countries in one day!(Just Kidding)
 
 <!---
